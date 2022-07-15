@@ -1,0 +1,18 @@
+.cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    table {
+        width: 500px;
+    }
+
+    .flag {
+        height: 10px;
+        width: 10px;
+    
+    }
+}
+
+
